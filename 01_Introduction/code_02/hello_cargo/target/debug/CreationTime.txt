@@ -1,0 +1,50 @@
+
+{
+	FILE : .cargo-lock
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : .fingerprint
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : build
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : deps
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : examples
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	FILE : hello_cargo.d
+	Date : Tuesday - August 13, 2024 - 1:9:25:340 AM
+}
+
+{
+	FILE : hello_cargo.exe
+	Date : Tuesday - August 13, 2024 - 1:9:25:120 AM
+}
+
+{
+	FILE : hello_cargo.pdb
+	Date : Tuesday - August 13, 2024 - 1:9:25:121 AM
+}
+
+{
+	DIR : incremental
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Tuesday - August 13, 2024 - 2:45:32:923 AM
+}

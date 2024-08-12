@@ -1,0 +1,25 @@
+
+{
+	FILE : .rustc_info.json
+	Date : Tuesday - August 13, 2024 - 1:9:25:340 AM
+}
+
+{
+	FILE : CACHEDIR.TAG
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : debug
+	Date : Tuesday - August 13, 2024 - 1:9:25:71 AM
+}
+
+{
+	DIR : release
+	Date : Tuesday - August 13, 2024 - 2:39:16:507 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Tuesday - August 13, 2024 - 2:45:32:921 AM
+}

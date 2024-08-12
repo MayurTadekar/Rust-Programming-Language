@@ -1,0 +1,1 @@
+I:\01_Programming_Languages\01_Rust\Rust-Programming-Language\01_Introduction\code_02\hello_cargo\target\debug\hello_cargo.exe: I:\01_Programming_Languages\01_Rust\Rust-Programming-Language\01_Introduction\code_02\hello_cargo\src\main.rs

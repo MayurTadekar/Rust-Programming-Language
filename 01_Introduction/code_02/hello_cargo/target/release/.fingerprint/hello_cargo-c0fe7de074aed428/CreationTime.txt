@@ -1,0 +1,25 @@
+
+{
+	FILE : bin-hello_cargo
+	Date : Tuesday - August 13, 2024 - 2:39:17:33 AM
+}
+
+{
+	FILE : bin-hello_cargo.json
+	Date : Tuesday - August 13, 2024 - 2:39:17:33 AM
+}
+
+{
+	FILE : dep-bin-hello_cargo
+	Date : Tuesday - August 13, 2024 - 2:39:17:1 AM
+}
+
+{
+	FILE : invoked.timestamp
+	Date : Tuesday - August 13, 2024 - 2:39:16:509 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Tuesday - August 13, 2024 - 2:45:32:943 AM
+}

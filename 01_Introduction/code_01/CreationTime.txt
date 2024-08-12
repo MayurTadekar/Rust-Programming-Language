@@ -1,0 +1,30 @@
+
+{
+	FILE : main.exe
+	Date : Monday - August 12, 2024 - 10:55:59:465 PM
+}
+
+{
+	FILE : main.pdb
+	Date : Monday - August 12, 2024 - 10:55:59:468 PM
+}
+
+{
+	FILE : main.rs
+	Date : Monday - August 12, 2024 - 10:53:47:467 PM
+}
+
+{
+	FILE : my_first_error.png
+	Date : Monday - August 12, 2024 - 10:55:2:471 PM
+}
+
+{
+	FILE : my_first_output.png
+	Date : Monday - August 12, 2024 - 10:56:19:903 PM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Tuesday - August 13, 2024 - 2:45:32:914 AM
+}
