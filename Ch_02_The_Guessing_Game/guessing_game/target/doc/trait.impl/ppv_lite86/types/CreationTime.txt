@@ -1,0 +1,20 @@
+
+{
+	FILE : trait.Machine.js
+	Date : Saturday - August 24, 2024 - 10:12:24:249 AM
+}
+
+{
+	FILE : trait.Store.js
+	Date : Saturday - August 24, 2024 - 10:12:24:274 AM
+}
+
+{
+	FILE : trait.VZip.js
+	Date : Saturday - August 24, 2024 - 10:12:24:310 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:250 AM
+}

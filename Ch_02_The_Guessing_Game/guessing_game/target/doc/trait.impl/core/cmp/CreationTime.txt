@@ -1,0 +1,25 @@
+
+{
+	FILE : trait.Eq.js
+	Date : Saturday - August 24, 2024 - 10:12:20:121 AM
+}
+
+{
+	FILE : trait.Ord.js
+	Date : Saturday - August 24, 2024 - 10:12:20:121 AM
+}
+
+{
+	FILE : trait.PartialEq.js
+	Date : Saturday - August 24, 2024 - 10:12:20:122 AM
+}
+
+{
+	FILE : trait.PartialOrd.js
+	Date : Saturday - August 24, 2024 - 10:12:20:121 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:197 AM
+}

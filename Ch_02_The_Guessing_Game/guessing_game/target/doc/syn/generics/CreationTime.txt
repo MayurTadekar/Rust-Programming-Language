@@ -1,0 +1,85 @@
+
+{
+	FILE : enum.GenericParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	FILE : enum.TraitBoundModifier.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : enum.TypeParamBound.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : enum.WherePredicate.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.BoundLifetimes.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.ConstParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.Generics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	FILE : struct.ImplGenerics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.LifetimeParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	FILE : struct.PredicateLifetime.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.PredicateType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.TraitBound.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.Turbofish.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.TypeGenerics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.TypeParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	FILE : struct.WhereClause.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:0 AM
+}

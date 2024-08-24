@@ -1,0 +1,15 @@
+
+{
+	DIR : s-gz9wvn66x8-1jdkt9w-02ff20werorfr2t7e24nggqd0
+	Date : Saturday - August 24, 2024 - 10:20:1:338 AM
+}
+
+{
+	FILE : s-gz9wvn66x8-1jdkt9w.lock
+	Date : Saturday - August 24, 2024 - 10:20:1:338 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:612 AM
+}

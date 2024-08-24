@@ -1,0 +1,25 @@
+
+{
+	FILE : trait.AsMut.js
+	Date : Saturday - August 24, 2024 - 10:12:23:717 AM
+}
+
+{
+	FILE : trait.AsRef.js
+	Date : Saturday - August 24, 2024 - 10:12:23:600 AM
+}
+
+{
+	FILE : trait.From.js
+	Date : Saturday - August 24, 2024 - 10:12:20:459 AM
+}
+
+{
+	FILE : trait.TryFrom.js
+	Date : Saturday - August 24, 2024 - 10:12:23:662 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:200 AM
+}

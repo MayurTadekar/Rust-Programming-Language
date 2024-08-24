@@ -1,0 +1,225 @@
+
+{
+	FILE : all.html
+	Date : Saturday - August 24, 2024 - 10:12:24:330 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:24:317 AM
+}
+
+{
+	FILE : macro.dispatch!.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : macro.dispatch.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : macro.dispatch_light128!.html
+	Date : Saturday - August 24, 2024 - 10:12:24:318 AM
+}
+
+{
+	FILE : macro.dispatch_light128.html
+	Date : Saturday - August 24, 2024 - 10:12:24:318 AM
+}
+
+{
+	FILE : macro.dispatch_light256!.html
+	Date : Saturday - August 24, 2024 - 10:12:24:318 AM
+}
+
+{
+	FILE : macro.dispatch_light256.html
+	Date : Saturday - August 24, 2024 - 10:12:24:318 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:24:318 AM
+}
+
+{
+	FILE : trait.AndNot.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.ArithOps.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.BitOps0.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.BitOps128.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.BitOps32.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.BitOps64.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.BSwap.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.LaneWords4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Machine.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.MultiLane.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.RotateEachWord128.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.RotateEachWord32.html
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : trait.RotateEachWord64.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Store.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.StoreBytes.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.Swap64.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u128x1.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u128x2.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u128x4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.u32x4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u32x4x2.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u32x4x4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.u64x2.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u64x2x2.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.u64x2x4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.u64x4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.UnsafeFrom.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Vec2.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Vec4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Vec4Ext.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.Vector.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	FILE : trait.VZip.html
+	Date : Saturday - August 24, 2024 - 10:12:24:319 AM
+}
+
+{
+	FILE : trait.Words4.html
+	Date : Saturday - August 24, 2024 - 10:12:24:320 AM
+}
+
+{
+	DIR : types
+	Date : Saturday - August 24, 2024 - 10:12:24:328 AM
+}
+
+{
+	DIR : x86_64
+	Date : Saturday - August 24, 2024 - 10:12:24:321 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:655 AM
+}

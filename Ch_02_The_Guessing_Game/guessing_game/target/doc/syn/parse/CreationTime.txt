@@ -1,0 +1,70 @@
+
+{
+	DIR : discouraged
+	Date : Saturday - August 24, 2024 - 10:12:22:262 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : struct.Error.html
+	Date : Saturday - August 24, 2024 - 10:12:22:262 AM
+}
+
+{
+	FILE : struct.Lookahead1.html
+	Date : Saturday - August 24, 2024 - 10:12:22:260 AM
+}
+
+{
+	FILE : struct.Nothing.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : struct.ParseBuffer.html
+	Date : Saturday - August 24, 2024 - 10:12:22:258 AM
+}
+
+{
+	FILE : struct.StepCursor.html
+	Date : Saturday - August 24, 2024 - 10:12:22:257 AM
+}
+
+{
+	FILE : trait.Parse.html
+	Date : Saturday - August 24, 2024 - 10:12:22:260 AM
+}
+
+{
+	FILE : trait.Parser.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : trait.Peek.html
+	Date : Saturday - August 24, 2024 - 10:12:22:260 AM
+}
+
+{
+	FILE : type.ParseStream.html
+	Date : Saturday - August 24, 2024 - 10:12:22:258 AM
+}
+
+{
+	FILE : type.Result.html
+	Date : Saturday - August 24, 2024 - 10:12:22:261 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:38 AM
+}

@@ -1,0 +1,845 @@
+
+{
+	FILE : all.html
+	Date : Saturday - August 24, 2024 - 10:12:22:320 AM
+}
+
+{
+	DIR : attr
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	DIR : buffer
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	DIR : data
+	Date : Saturday - August 24, 2024 - 10:12:22:266 AM
+}
+
+{
+	DIR : derive
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : enum.AttrStyle.html
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : enum.BinOp.html
+	Date : Saturday - August 24, 2024 - 10:12:22:188 AM
+}
+
+{
+	FILE : enum.Data.html
+	Date : Saturday - August 24, 2024 - 10:12:22:228 AM
+}
+
+{
+	FILE : enum.Expr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:225 AM
+}
+
+{
+	FILE : enum.FieldMutability.html
+	Date : Saturday - August 24, 2024 - 10:12:22:182 AM
+}
+
+{
+	FILE : enum.Fields.html
+	Date : Saturday - August 24, 2024 - 10:12:22:230 AM
+}
+
+{
+	FILE : enum.GenericArgument.html
+	Date : Saturday - August 24, 2024 - 10:12:22:185 AM
+}
+
+{
+	FILE : enum.GenericParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:202 AM
+}
+
+{
+	FILE : enum.Lit.html
+	Date : Saturday - August 24, 2024 - 10:12:22:194 AM
+}
+
+{
+	FILE : enum.MacroDelimiter.html
+	Date : Saturday - August 24, 2024 - 10:12:22:188 AM
+}
+
+{
+	FILE : enum.Member.html
+	Date : Saturday - August 24, 2024 - 10:12:22:213 AM
+}
+
+{
+	FILE : enum.Meta.html
+	Date : Saturday - August 24, 2024 - 10:12:22:233 AM
+}
+
+{
+	FILE : enum.PathArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:183 AM
+}
+
+{
+	FILE : enum.ReturnType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:179 AM
+}
+
+{
+	FILE : enum.TraitBoundModifier.html
+	Date : Saturday - August 24, 2024 - 10:12:22:199 AM
+}
+
+{
+	FILE : enum.Type.html
+	Date : Saturday - August 24, 2024 - 10:12:22:178 AM
+}
+
+{
+	FILE : enum.TypeParamBound.html
+	Date : Saturday - August 24, 2024 - 10:12:22:198 AM
+}
+
+{
+	FILE : enum.UnOp.html
+	Date : Saturday - August 24, 2024 - 10:12:22:187 AM
+}
+
+{
+	FILE : enum.Visibility.html
+	Date : Saturday - August 24, 2024 - 10:12:22:181 AM
+}
+
+{
+	FILE : enum.WherePredicate.html
+	Date : Saturday - August 24, 2024 - 10:12:22:197 AM
+}
+
+{
+	DIR : error
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	DIR : expr
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	DIR : ext
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : fn.parse.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	FILE : fn.parse2.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	FILE : fn.parse_str.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	DIR : generics
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	DIR : ident
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:22:166 AM
+}
+
+{
+	DIR : lifetime
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	DIR : lit
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	DIR : lookahead
+	Date : Saturday - August 24, 2024 - 10:12:22:263 AM
+}
+
+{
+	DIR : mac
+	Date : Saturday - August 24, 2024 - 10:12:22:263 AM
+}
+
+{
+	FILE : macro.braced!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.braced.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.bracketed!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.bracketed.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.custom_keyword!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.custom_keyword.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.custom_punctuation!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.custom_punctuation.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parenthesized!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	FILE : macro.parenthesized.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.parse_macro_input!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parse_macro_input.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parse_quote!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parse_quote.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parse_quote_spanned!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:169 AM
+}
+
+{
+	FILE : macro.parse_quote_spanned.html
+	Date : Saturday - August 24, 2024 - 10:12:22:168 AM
+}
+
+{
+	FILE : macro.Token!.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	FILE : macro.Token.html
+	Date : Saturday - August 24, 2024 - 10:12:22:170 AM
+}
+
+{
+	DIR : meta
+	Date : Saturday - August 24, 2024 - 10:12:22:262 AM
+}
+
+{
+	DIR : op
+	Date : Saturday - August 24, 2024 - 10:12:22:262 AM
+}
+
+{
+	DIR : parse
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	DIR : path
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	DIR : punctuated
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	DIR : restriction
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:22:166 AM
+}
+
+{
+	DIR : spanned
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.Abi.html
+	Date : Saturday - August 24, 2024 - 10:12:22:180 AM
+}
+
+{
+	FILE : struct.AngleBracketedGenericArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:187 AM
+}
+
+{
+	FILE : struct.AssocConst.html
+	Date : Saturday - August 24, 2024 - 10:12:22:186 AM
+}
+
+{
+	FILE : struct.AssocType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:186 AM
+}
+
+{
+	FILE : struct.Attribute.html
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : struct.BareFnArg.html
+	Date : Saturday - August 24, 2024 - 10:12:22:180 AM
+}
+
+{
+	FILE : struct.BareVariadic.html
+	Date : Saturday - August 24, 2024 - 10:12:22:179 AM
+}
+
+{
+	FILE : struct.BoundLifetimes.html
+	Date : Saturday - August 24, 2024 - 10:12:22:203 AM
+}
+
+{
+	FILE : struct.ConstParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:202 AM
+}
+
+{
+	FILE : struct.Constraint.html
+	Date : Saturday - August 24, 2024 - 10:12:22:185 AM
+}
+
+{
+	FILE : struct.DataEnum.html
+	Date : Saturday - August 24, 2024 - 10:12:22:228 AM
+}
+
+{
+	FILE : struct.DataStruct.html
+	Date : Saturday - August 24, 2024 - 10:12:22:227 AM
+}
+
+{
+	FILE : struct.DataUnion.html
+	Date : Saturday - August 24, 2024 - 10:12:22:227 AM
+}
+
+{
+	FILE : struct.DeriveInput.html
+	Date : Saturday - August 24, 2024 - 10:12:22:226 AM
+}
+
+{
+	FILE : struct.Error.html
+	Date : Saturday - August 24, 2024 - 10:12:22:226 AM
+}
+
+{
+	FILE : struct.ExprArray.html
+	Date : Saturday - August 24, 2024 - 10:12:22:212 AM
+}
+
+{
+	FILE : struct.ExprAssign.html
+	Date : Saturday - August 24, 2024 - 10:12:22:212 AM
+}
+
+{
+	FILE : struct.ExprAsync.html
+	Date : Saturday - August 24, 2024 - 10:12:22:212 AM
+}
+
+{
+	FILE : struct.ExprAwait.html
+	Date : Saturday - August 24, 2024 - 10:12:22:211 AM
+}
+
+{
+	FILE : struct.ExprBinary.html
+	Date : Saturday - August 24, 2024 - 10:12:22:220 AM
+}
+
+{
+	FILE : struct.ExprBlock.html
+	Date : Saturday - August 24, 2024 - 10:12:22:211 AM
+}
+
+{
+	FILE : struct.ExprBreak.html
+	Date : Saturday - August 24, 2024 - 10:12:22:210 AM
+}
+
+{
+	FILE : struct.ExprCall.html
+	Date : Saturday - August 24, 2024 - 10:12:22:220 AM
+}
+
+{
+	FILE : struct.ExprCast.html
+	Date : Saturday - August 24, 2024 - 10:12:22:219 AM
+}
+
+{
+	FILE : struct.ExprClosure.html
+	Date : Saturday - August 24, 2024 - 10:12:22:210 AM
+}
+
+{
+	FILE : struct.ExprConst.html
+	Date : Saturday - August 24, 2024 - 10:12:22:210 AM
+}
+
+{
+	FILE : struct.ExprContinue.html
+	Date : Saturday - August 24, 2024 - 10:12:22:209 AM
+}
+
+{
+	FILE : struct.ExprField.html
+	Date : Saturday - August 24, 2024 - 10:12:22:219 AM
+}
+
+{
+	FILE : struct.ExprForLoop.html
+	Date : Saturday - August 24, 2024 - 10:12:22:209 AM
+}
+
+{
+	FILE : struct.ExprGroup.html
+	Date : Saturday - August 24, 2024 - 10:12:22:209 AM
+}
+
+{
+	FILE : struct.ExprIf.html
+	Date : Saturday - August 24, 2024 - 10:12:22:208 AM
+}
+
+{
+	FILE : struct.ExprIndex.html
+	Date : Saturday - August 24, 2024 - 10:12:22:218 AM
+}
+
+{
+	FILE : struct.ExprInfer.html
+	Date : Saturday - August 24, 2024 - 10:12:22:208 AM
+}
+
+{
+	FILE : struct.ExprLet.html
+	Date : Saturday - August 24, 2024 - 10:12:22:207 AM
+}
+
+{
+	FILE : struct.ExprLit.html
+	Date : Saturday - August 24, 2024 - 10:12:22:218 AM
+}
+
+{
+	FILE : struct.ExprLoop.html
+	Date : Saturday - August 24, 2024 - 10:12:22:207 AM
+}
+
+{
+	FILE : struct.ExprMacro.html
+	Date : Saturday - August 24, 2024 - 10:12:22:218 AM
+}
+
+{
+	FILE : struct.ExprMatch.html
+	Date : Saturday - August 24, 2024 - 10:12:22:207 AM
+}
+
+{
+	FILE : struct.ExprMethodCall.html
+	Date : Saturday - August 24, 2024 - 10:12:22:217 AM
+}
+
+{
+	FILE : struct.ExprParen.html
+	Date : Saturday - August 24, 2024 - 10:12:22:216 AM
+}
+
+{
+	FILE : struct.ExprPath.html
+	Date : Saturday - August 24, 2024 - 10:12:22:216 AM
+}
+
+{
+	FILE : struct.ExprRange.html
+	Date : Saturday - August 24, 2024 - 10:12:22:206 AM
+}
+
+{
+	FILE : struct.ExprReference.html
+	Date : Saturday - August 24, 2024 - 10:12:22:216 AM
+}
+
+{
+	FILE : struct.ExprRepeat.html
+	Date : Saturday - August 24, 2024 - 10:12:22:206 AM
+}
+
+{
+	FILE : struct.ExprReturn.html
+	Date : Saturday - August 24, 2024 - 10:12:22:206 AM
+}
+
+{
+	FILE : struct.ExprStruct.html
+	Date : Saturday - August 24, 2024 - 10:12:22:215 AM
+}
+
+{
+	FILE : struct.ExprTry.html
+	Date : Saturday - August 24, 2024 - 10:12:22:205 AM
+}
+
+{
+	FILE : struct.ExprTryBlock.html
+	Date : Saturday - August 24, 2024 - 10:12:22:205 AM
+}
+
+{
+	FILE : struct.ExprTuple.html
+	Date : Saturday - August 24, 2024 - 10:12:22:204 AM
+}
+
+{
+	FILE : struct.ExprUnary.html
+	Date : Saturday - August 24, 2024 - 10:12:22:215 AM
+}
+
+{
+	FILE : struct.ExprUnsafe.html
+	Date : Saturday - August 24, 2024 - 10:12:22:204 AM
+}
+
+{
+	FILE : struct.ExprWhile.html
+	Date : Saturday - August 24, 2024 - 10:12:22:204 AM
+}
+
+{
+	FILE : struct.ExprYield.html
+	Date : Saturday - August 24, 2024 - 10:12:22:203 AM
+}
+
+{
+	FILE : struct.Field.html
+	Date : Saturday - August 24, 2024 - 10:12:22:231 AM
+}
+
+{
+	FILE : struct.FieldsNamed.html
+	Date : Saturday - August 24, 2024 - 10:12:22:230 AM
+}
+
+{
+	FILE : struct.FieldsUnnamed.html
+	Date : Saturday - August 24, 2024 - 10:12:22:229 AM
+}
+
+{
+	FILE : struct.FieldValue.html
+	Date : Saturday - August 24, 2024 - 10:12:22:214 AM
+}
+
+{
+	FILE : struct.Generics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:201 AM
+}
+
+{
+	FILE : struct.Ident.html
+	Date : Saturday - August 24, 2024 - 10:12:22:168 AM
+}
+
+{
+	FILE : struct.ImplGenerics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:196 AM
+}
+
+{
+	FILE : struct.Index.html
+	Date : Saturday - August 24, 2024 - 10:12:22:214 AM
+}
+
+{
+	FILE : struct.Lifetime.html
+	Date : Saturday - August 24, 2024 - 10:12:22:195 AM
+}
+
+{
+	FILE : struct.LifetimeParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:201 AM
+}
+
+{
+	FILE : struct.LitBool.html
+	Date : Saturday - August 24, 2024 - 10:12:22:193 AM
+}
+
+{
+	FILE : struct.LitByte.html
+	Date : Saturday - August 24, 2024 - 10:12:22:193 AM
+}
+
+{
+	FILE : struct.LitByteStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:192 AM
+}
+
+{
+	FILE : struct.LitChar.html
+	Date : Saturday - August 24, 2024 - 10:12:22:191 AM
+}
+
+{
+	FILE : struct.LitCStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:192 AM
+}
+
+{
+	FILE : struct.LitFloat.html
+	Date : Saturday - August 24, 2024 - 10:12:22:191 AM
+}
+
+{
+	FILE : struct.LitInt.html
+	Date : Saturday - August 24, 2024 - 10:12:22:190 AM
+}
+
+{
+	FILE : struct.LitStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:190 AM
+}
+
+{
+	FILE : struct.Macro.html
+	Date : Saturday - August 24, 2024 - 10:12:22:189 AM
+}
+
+{
+	FILE : struct.MetaList.html
+	Date : Saturday - August 24, 2024 - 10:12:22:232 AM
+}
+
+{
+	FILE : struct.MetaNameValue.html
+	Date : Saturday - August 24, 2024 - 10:12:22:231 AM
+}
+
+{
+	FILE : struct.ParenthesizedGenericArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:184 AM
+}
+
+{
+	FILE : struct.Path.html
+	Date : Saturday - August 24, 2024 - 10:12:22:184 AM
+}
+
+{
+	FILE : struct.PathSegment.html
+	Date : Saturday - August 24, 2024 - 10:12:22:183 AM
+}
+
+{
+	FILE : struct.PredicateLifetime.html
+	Date : Saturday - August 24, 2024 - 10:12:22:200 AM
+}
+
+{
+	FILE : struct.PredicateType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:200 AM
+}
+
+{
+	FILE : struct.QSelf.html
+	Date : Saturday - August 24, 2024 - 10:12:22:182 AM
+}
+
+{
+	FILE : struct.TraitBound.html
+	Date : Saturday - August 24, 2024 - 10:12:22:199 AM
+}
+
+{
+	FILE : struct.Turbofish.html
+	Date : Saturday - August 24, 2024 - 10:12:22:196 AM
+}
+
+{
+	FILE : struct.TypeArray.html
+	Date : Saturday - August 24, 2024 - 10:12:22:177 AM
+}
+
+{
+	FILE : struct.TypeBareFn.html
+	Date : Saturday - August 24, 2024 - 10:12:22:177 AM
+}
+
+{
+	FILE : struct.TypeGenerics.html
+	Date : Saturday - August 24, 2024 - 10:12:22:195 AM
+}
+
+{
+	FILE : struct.TypeGroup.html
+	Date : Saturday - August 24, 2024 - 10:12:22:176 AM
+}
+
+{
+	FILE : struct.TypeImplTrait.html
+	Date : Saturday - August 24, 2024 - 10:12:22:176 AM
+}
+
+{
+	FILE : struct.TypeInfer.html
+	Date : Saturday - August 24, 2024 - 10:12:22:175 AM
+}
+
+{
+	FILE : struct.TypeMacro.html
+	Date : Saturday - August 24, 2024 - 10:12:22:175 AM
+}
+
+{
+	FILE : struct.TypeNever.html
+	Date : Saturday - August 24, 2024 - 10:12:22:174 AM
+}
+
+{
+	FILE : struct.TypeParam.html
+	Date : Saturday - August 24, 2024 - 10:12:22:198 AM
+}
+
+{
+	FILE : struct.TypeParen.html
+	Date : Saturday - August 24, 2024 - 10:12:22:174 AM
+}
+
+{
+	FILE : struct.TypePath.html
+	Date : Saturday - August 24, 2024 - 10:12:22:173 AM
+}
+
+{
+	FILE : struct.TypePtr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:173 AM
+}
+
+{
+	FILE : struct.TypeReference.html
+	Date : Saturday - August 24, 2024 - 10:12:22:172 AM
+}
+
+{
+	FILE : struct.TypeSlice.html
+	Date : Saturday - August 24, 2024 - 10:12:22:172 AM
+}
+
+{
+	FILE : struct.TypeTraitObject.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	FILE : struct.TypeTuple.html
+	Date : Saturday - August 24, 2024 - 10:12:22:171 AM
+}
+
+{
+	FILE : struct.Variant.html
+	Date : Saturday - August 24, 2024 - 10:12:22:229 AM
+}
+
+{
+	FILE : struct.VisRestricted.html
+	Date : Saturday - August 24, 2024 - 10:12:22:182 AM
+}
+
+{
+	FILE : struct.WhereClause.html
+	Date : Saturday - August 24, 2024 - 10:12:22:197 AM
+}
+
+{
+	DIR : token
+	Date : Saturday - August 24, 2024 - 10:12:22:268 AM
+}
+
+{
+	DIR : ty
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : type.Result.html
+	Date : Saturday - August 24, 2024 - 10:12:22:225 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:947 AM
+}

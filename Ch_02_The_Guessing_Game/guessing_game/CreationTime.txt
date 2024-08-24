@@ -1,0 +1,25 @@
+
+{
+	FILE : Cargo.lock
+	Date : Saturday - August 24, 2024 - 9:43:0:716 AM
+}
+
+{
+	FILE : Cargo.toml
+	Date : Saturday - August 24, 2024 - 9:42:51:942 AM
+}
+
+{
+	DIR : src
+	Date : Saturday - August 24, 2024 - 9:42:51:942 AM
+}
+
+{
+	DIR : target
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:431 AM
+}

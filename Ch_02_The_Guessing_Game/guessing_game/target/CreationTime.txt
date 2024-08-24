@@ -1,0 +1,30 @@
+
+{
+	FILE : .rustc_info.json
+	Date : Saturday - August 24, 2024 - 9:43:1:388 AM
+}
+
+{
+	FILE : .rustdoc_fingerprint.json
+	Date : Saturday - August 24, 2024 - 10:12:19:720 AM
+}
+
+{
+	FILE : CACHEDIR.TAG
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	DIR : debug
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	DIR : doc
+	Date : Saturday - August 24, 2024 - 10:12:19:777 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:435 AM
+}

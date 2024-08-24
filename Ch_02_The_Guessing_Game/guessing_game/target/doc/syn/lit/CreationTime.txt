@@ -1,0 +1,50 @@
+
+{
+	FILE : enum.Lit.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : struct.LitBool.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitByte.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitByteStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitChar.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitCStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitFloat.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitInt.html
+	Date : Saturday - August 24, 2024 - 10:12:22:264 AM
+}
+
+{
+	FILE : struct.LitStr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:265 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:13 AM
+}

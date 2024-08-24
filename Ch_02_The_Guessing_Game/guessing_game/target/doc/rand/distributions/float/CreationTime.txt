@@ -1,0 +1,15 @@
+
+{
+	FILE : struct.Open01.html
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : struct.OpenClosed01.html
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:743 AM
+}

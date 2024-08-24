@@ -1,0 +1,80 @@
+
+{
+	FILE : all.html
+	Date : Saturday - August 24, 2024 - 10:12:21:36 AM
+}
+
+{
+	DIR : ext
+	Date : Saturday - August 24, 2024 - 10:12:21:36 AM
+}
+
+{
+	DIR : ident_fragment
+	Date : Saturday - August 24, 2024 - 10:12:21:35 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.format_ident!.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.format_ident.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.quote!.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.quote.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.quote_spanned!.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : macro.quote_spanned.html
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:21:32 AM
+}
+
+{
+	DIR : to_tokens
+	Date : Saturday - August 24, 2024 - 10:12:21:35 AM
+}
+
+{
+	FILE : trait.IdentFragment.html
+	Date : Saturday - August 24, 2024 - 10:12:21:35 AM
+}
+
+{
+	FILE : trait.TokenStreamExt.html
+	Date : Saturday - August 24, 2024 - 10:12:21:35 AM
+}
+
+{
+	FILE : trait.ToTokens.html
+	Date : Saturday - August 24, 2024 - 10:12:21:34 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:723 AM
+}

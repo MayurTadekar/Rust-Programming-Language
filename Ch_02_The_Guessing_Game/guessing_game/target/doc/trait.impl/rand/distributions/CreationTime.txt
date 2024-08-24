@@ -1,0 +1,20 @@
+
+{
+	DIR : distribution
+	Date : Saturday - August 24, 2024 - 10:12:25:281 AM
+}
+
+{
+	DIR : uniform
+	Date : Saturday - August 24, 2024 - 10:12:25:244 AM
+}
+
+{
+	DIR : weighted
+	Date : Saturday - August 24, 2024 - 10:12:25:261 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:258 AM
+}

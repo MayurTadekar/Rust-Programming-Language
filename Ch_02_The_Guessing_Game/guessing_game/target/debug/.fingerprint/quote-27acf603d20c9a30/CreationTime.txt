@@ -1,0 +1,25 @@
+
+{
+	FILE : dep-lib-quote
+	Date : Saturday - August 24, 2024 - 10:0:43:624 AM
+}
+
+{
+	FILE : invoked.timestamp
+	Date : Saturday - August 24, 2024 - 10:0:43:409 AM
+}
+
+{
+	FILE : lib-quote
+	Date : Saturday - August 24, 2024 - 10:0:43:624 AM
+}
+
+{
+	FILE : lib-quote.json
+	Date : Saturday - August 24, 2024 - 10:0:43:625 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:489 AM
+}

@@ -1,0 +1,25 @@
+
+{
+	FILE : dep-lib-zerocopy_derive
+	Date : Saturday - August 24, 2024 - 10:0:45:323 AM
+}
+
+{
+	FILE : invoked.timestamp
+	Date : Saturday - August 24, 2024 - 10:0:44:893 AM
+}
+
+{
+	FILE : lib-zerocopy_derive
+	Date : Saturday - August 24, 2024 - 10:0:45:324 AM
+}
+
+{
+	FILE : lib-zerocopy_derive.json
+	Date : Saturday - August 24, 2024 - 10:0:45:324 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:543 AM
+}

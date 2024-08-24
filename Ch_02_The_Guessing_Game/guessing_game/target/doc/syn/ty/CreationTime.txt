@@ -1,0 +1,100 @@
+
+{
+	FILE : enum.ReturnType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : enum.Type.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.Abi.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.BareFnArg.html
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : struct.BareVariadic.html
+	Date : Saturday - August 24, 2024 - 10:12:22:234 AM
+}
+
+{
+	FILE : struct.TypeArray.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeBareFn.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeGroup.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeImplTrait.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeInfer.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeMacro.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeNever.html
+	Date : Saturday - August 24, 2024 - 10:12:22:236 AM
+}
+
+{
+	FILE : struct.TypeParen.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypePath.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypePtr.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypeReference.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypeSlice.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypeTraitObject.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : struct.TypeTuple.html
+	Date : Saturday - August 24, 2024 - 10:12:22:235 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:181 AM
+}

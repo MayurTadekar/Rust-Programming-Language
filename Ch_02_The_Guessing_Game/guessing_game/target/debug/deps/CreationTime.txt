@@ -1,0 +1,345 @@
+
+{
+	FILE : byteorder-73478af3089458d1.d
+	Date : Saturday - August 24, 2024 - 10:0:42:720 AM
+}
+
+{
+	FILE : byteorder-daebf413e29da090.d
+	Date : Saturday - August 24, 2024 - 10:12:19:857 AM
+}
+
+{
+	FILE : cfg_if-0c0e767d9342f680.d
+	Date : Saturday - August 24, 2024 - 10:12:19:846 AM
+}
+
+{
+	FILE : cfg_if-b999bfe147b97978.d
+	Date : Saturday - August 24, 2024 - 10:0:42:713 AM
+}
+
+{
+	FILE : getrandom-3e2948d065f445b1.d
+	Date : Saturday - August 24, 2024 - 10:12:19:886 AM
+}
+
+{
+	FILE : getrandom-9b8895d33d982b08.d
+	Date : Saturday - August 24, 2024 - 10:0:42:753 AM
+}
+
+{
+	FILE : guessing_game.d
+	Date : Saturday - August 24, 2024 - 9:43:0:974 AM
+}
+
+{
+	FILE : guessing_game.exe
+	Date : Saturday - August 24, 2024 - 10:20:1:418 AM
+}
+
+{
+	FILE : guessing_game.pdb
+	Date : Saturday - August 24, 2024 - 10:20:1:418 AM
+}
+
+{
+	FILE : libbyteorder-73478af3089458d1.rlib
+	Date : Saturday - August 24, 2024 - 10:0:42:831 AM
+}
+
+{
+	FILE : libbyteorder-73478af3089458d1.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:42:805 AM
+}
+
+{
+	FILE : libbyteorder-daebf413e29da090.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:19:931 AM
+}
+
+{
+	FILE : libcfg_if-0c0e767d9342f680.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:19:847 AM
+}
+
+{
+	FILE : libcfg_if-b999bfe147b97978.rlib
+	Date : Saturday - August 24, 2024 - 10:0:42:734 AM
+}
+
+{
+	FILE : libcfg_if-b999bfe147b97978.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:42:715 AM
+}
+
+{
+	FILE : libgetrandom-3e2948d065f445b1.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:19:912 AM
+}
+
+{
+	FILE : libgetrandom-9b8895d33d982b08.rlib
+	Date : Saturday - August 24, 2024 - 10:0:42:850 AM
+}
+
+{
+	FILE : libgetrandom-9b8895d33d982b08.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:42:790 AM
+}
+
+{
+	FILE : libppv_lite86-632de753628fc163.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:672 AM
+}
+
+{
+	FILE : libppv_lite86-952673681494600a.rlib
+	Date : Saturday - August 24, 2024 - 10:0:46:29 AM
+}
+
+{
+	FILE : libppv_lite86-952673681494600a.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:45:994 AM
+}
+
+{
+	FILE : libproc_macro2-36d3fb633300b5df.rlib
+	Date : Saturday - August 24, 2024 - 10:0:43:558 AM
+}
+
+{
+	FILE : libproc_macro2-36d3fb633300b5df.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:43:364 AM
+}
+
+{
+	FILE : libproc_macro2-41bc492d6477e66f.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:110 AM
+}
+
+{
+	FILE : libquote-27acf603d20c9a30.rlib
+	Date : Saturday - August 24, 2024 - 10:0:43:611 AM
+}
+
+{
+	FILE : libquote-27acf603d20c9a30.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:43:513 AM
+}
+
+{
+	FILE : libquote-6f11d668ba547db4.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:232 AM
+}
+
+{
+	FILE : librand-18f70720bfbf6ed7.rlib
+	Date : Saturday - August 24, 2024 - 10:0:46:672 AM
+}
+
+{
+	FILE : librand-18f70720bfbf6ed7.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:46:538 AM
+}
+
+{
+	FILE : librand-5956b6f366fe8262.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:21:246 AM
+}
+
+{
+	FILE : librand_chacha-bfc85dfb592e43c4.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:810 AM
+}
+
+{
+	FILE : librand_chacha-cf78c721c76e61e1.rlib
+	Date : Saturday - August 24, 2024 - 10:0:46:458 AM
+}
+
+{
+	FILE : librand_chacha-cf78c721c76e61e1.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:46:110 AM
+}
+
+{
+	FILE : librand_core-593d714db70c5fce.rlib
+	Date : Saturday - August 24, 2024 - 10:0:42:970 AM
+}
+
+{
+	FILE : librand_core-593d714db70c5fce.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:42:889 AM
+}
+
+{
+	FILE : librand_core-6578a8399f99ecb6.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:17 AM
+}
+
+{
+	FILE : libsyn-5bc8ccff9fba3290.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:21:172 AM
+}
+
+{
+	FILE : libsyn-7feec65c2e93103e.rlib
+	Date : Saturday - August 24, 2024 - 10:0:44:865 AM
+}
+
+{
+	FILE : libsyn-7feec65c2e93103e.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:44:395 AM
+}
+
+{
+	FILE : libunicode_ident-5d2e46e1a48201aa.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:19:865 AM
+}
+
+{
+	FILE : libunicode_ident-5e6324df027bcb4f.rlib
+	Date : Saturday - August 24, 2024 - 10:0:42:770 AM
+}
+
+{
+	FILE : libunicode_ident-5e6324df027bcb4f.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:42:745 AM
+}
+
+{
+	FILE : libzerocopy-84f85bed9df7ffcc.rmeta
+	Date : Saturday - August 24, 2024 - 10:12:20:393 AM
+}
+
+{
+	FILE : libzerocopy-fbbdc651505bfa0f.rlib
+	Date : Saturday - August 24, 2024 - 10:0:45:816 AM
+}
+
+{
+	FILE : libzerocopy-fbbdc651505bfa0f.rmeta
+	Date : Saturday - August 24, 2024 - 10:0:45:753 AM
+}
+
+{
+	FILE : ppv_lite86-632de753628fc163.d
+	Date : Saturday - August 24, 2024 - 10:12:20:489 AM
+}
+
+{
+	FILE : ppv_lite86-952673681494600a.d
+	Date : Saturday - August 24, 2024 - 10:0:45:825 AM
+}
+
+{
+	FILE : proc_macro2-36d3fb633300b5df.d
+	Date : Saturday - August 24, 2024 - 10:0:43:170 AM
+}
+
+{
+	FILE : proc_macro2-41bc492d6477e66f.d
+	Date : Saturday - August 24, 2024 - 10:12:19:926 AM
+}
+
+{
+	FILE : quote-27acf603d20c9a30.d
+	Date : Saturday - August 24, 2024 - 10:0:43:438 AM
+}
+
+{
+	FILE : quote-6f11d668ba547db4.d
+	Date : Saturday - August 24, 2024 - 10:12:20:169 AM
+}
+
+{
+	FILE : rand-18f70720bfbf6ed7.d
+	Date : Saturday - August 24, 2024 - 10:0:46:196 AM
+}
+
+{
+	FILE : rand-5956b6f366fe8262.d
+	Date : Saturday - August 24, 2024 - 10:12:20:903 AM
+}
+
+{
+	FILE : rand_chacha-bfc85dfb592e43c4.d
+	Date : Saturday - August 24, 2024 - 10:12:20:741 AM
+}
+
+{
+	FILE : rand_chacha-cf78c721c76e61e1.d
+	Date : Saturday - August 24, 2024 - 10:0:46:45 AM
+}
+
+{
+	FILE : rand_core-593d714db70c5fce.d
+	Date : Saturday - August 24, 2024 - 10:0:42:826 AM
+}
+
+{
+	FILE : rand_core-6578a8399f99ecb6.d
+	Date : Saturday - August 24, 2024 - 10:12:19:960 AM
+}
+
+{
+	FILE : syn-5bc8ccff9fba3290.d
+	Date : Saturday - August 24, 2024 - 10:12:20:407 AM
+}
+
+{
+	FILE : syn-7feec65c2e93103e.d
+	Date : Saturday - August 24, 2024 - 10:0:43:668 AM
+}
+
+{
+	FILE : unicode_ident-5d2e46e1a48201aa.d
+	Date : Saturday - August 24, 2024 - 10:12:19:845 AM
+}
+
+{
+	FILE : unicode_ident-5e6324df027bcb4f.d
+	Date : Saturday - August 24, 2024 - 10:0:42:715 AM
+}
+
+{
+	FILE : zerocopy-84f85bed9df7ffcc.d
+	Date : Saturday - August 24, 2024 - 10:12:20:60 AM
+}
+
+{
+	FILE : zerocopy-fbbdc651505bfa0f.d
+	Date : Saturday - August 24, 2024 - 10:0:45:461 AM
+}
+
+{
+	FILE : zerocopy_derive-02cffb0db1b723e0.d
+	Date : Saturday - August 24, 2024 - 10:0:44:946 AM
+}
+
+{
+	FILE : zerocopy_derive-02cffb0db1b723e0.dll
+	Date : Saturday - August 24, 2024 - 10:0:45:229 AM
+}
+
+{
+	FILE : zerocopy_derive-02cffb0db1b723e0.dll.exp
+	Date : Saturday - August 24, 2024 - 10:0:45:276 AM
+}
+
+{
+	FILE : zerocopy_derive-02cffb0db1b723e0.dll.lib
+	Date : Saturday - August 24, 2024 - 10:0:45:277 AM
+}
+
+{
+	FILE : zerocopy_derive-02cffb0db1b723e0.pdb
+	Date : Saturday - August 24, 2024 - 10:0:45:230 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:559 AM
+}

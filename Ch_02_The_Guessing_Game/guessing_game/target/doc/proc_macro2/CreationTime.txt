@@ -1,0 +1,80 @@
+
+{
+	FILE : all.html
+	Date : Saturday - August 24, 2024 - 10:12:20:686 AM
+}
+
+{
+	FILE : enum.Delimiter.html
+	Date : Saturday - August 24, 2024 - 10:12:20:678 AM
+}
+
+{
+	FILE : enum.Spacing.html
+	Date : Saturday - August 24, 2024 - 10:12:20:677 AM
+}
+
+{
+	FILE : enum.TokenTree.html
+	Date : Saturday - August 24, 2024 - 10:12:20:679 AM
+}
+
+{
+	DIR : extra
+	Date : Saturday - August 24, 2024 - 10:12:20:685 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:20:674 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:20:674 AM
+}
+
+{
+	FILE : struct.Group.html
+	Date : Saturday - August 24, 2024 - 10:12:20:679 AM
+}
+
+{
+	FILE : struct.Ident.html
+	Date : Saturday - August 24, 2024 - 10:12:20:676 AM
+}
+
+{
+	FILE : struct.LexError.html
+	Date : Saturday - August 24, 2024 - 10:12:20:680 AM
+}
+
+{
+	FILE : struct.Literal.html
+	Date : Saturday - August 24, 2024 - 10:12:20:675 AM
+}
+
+{
+	FILE : struct.Punct.html
+	Date : Saturday - August 24, 2024 - 10:12:20:678 AM
+}
+
+{
+	FILE : struct.Span.html
+	Date : Saturday - August 24, 2024 - 10:12:20:680 AM
+}
+
+{
+	FILE : struct.TokenStream.html
+	Date : Saturday - August 24, 2024 - 10:12:20:681 AM
+}
+
+{
+	DIR : token_stream
+	Date : Saturday - August 24, 2024 - 10:12:20:681 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:709 AM
+}

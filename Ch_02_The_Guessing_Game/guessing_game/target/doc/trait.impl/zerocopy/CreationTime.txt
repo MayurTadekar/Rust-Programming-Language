@@ -1,0 +1,35 @@
+
+{
+	FILE : trait.AsBytes.js
+	Date : Saturday - August 24, 2024 - 10:12:23:641 AM
+}
+
+{
+	FILE : trait.ByteSlice.js
+	Date : Saturday - August 24, 2024 - 10:12:23:692 AM
+}
+
+{
+	FILE : trait.ByteSliceMut.js
+	Date : Saturday - August 24, 2024 - 10:12:23:600 AM
+}
+
+{
+	FILE : trait.FromBytes.js
+	Date : Saturday - August 24, 2024 - 10:12:23:641 AM
+}
+
+{
+	FILE : trait.FromZeroes.js
+	Date : Saturday - August 24, 2024 - 10:12:23:641 AM
+}
+
+{
+	FILE : trait.Unaligned.js
+	Date : Saturday - August 24, 2024 - 10:12:23:656 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:286 AM
+}

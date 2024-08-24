@@ -1,0 +1,35 @@
+
+{
+	FILE : trait.Copy.js
+	Date : Saturday - August 24, 2024 - 10:12:20:121 AM
+}
+
+{
+	FILE : trait.Freeze.js
+	Date : Saturday - August 24, 2024 - 10:12:20:121 AM
+}
+
+{
+	FILE : trait.Send.js
+	Date : Saturday - August 24, 2024 - 10:12:20:119 AM
+}
+
+{
+	FILE : trait.StructuralPartialEq.js
+	Date : Saturday - August 24, 2024 - 10:12:20:122 AM
+}
+
+{
+	FILE : trait.Sync.js
+	Date : Saturday - August 24, 2024 - 10:12:20:120 AM
+}
+
+{
+	FILE : trait.Unpin.js
+	Date : Saturday - August 24, 2024 - 10:12:20:120 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:220 AM
+}

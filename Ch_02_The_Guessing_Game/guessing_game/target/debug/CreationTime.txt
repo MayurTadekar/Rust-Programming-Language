@@ -1,0 +1,50 @@
+
+{
+	FILE : .cargo-lock
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	DIR : .fingerprint
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	DIR : build
+	Date : Saturday - August 24, 2024 - 9:43:0:732 AM
+}
+
+{
+	DIR : deps
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	DIR : examples
+	Date : Saturday - August 24, 2024 - 9:43:0:732 AM
+}
+
+{
+	FILE : guessing_game.d
+	Date : Saturday - August 24, 2024 - 9:43:1:388 AM
+}
+
+{
+	FILE : guessing_game.exe
+	Date : Saturday - August 24, 2024 - 10:20:1:418 AM
+}
+
+{
+	FILE : guessing_game.pdb
+	Date : Saturday - August 24, 2024 - 10:20:1:418 AM
+}
+
+{
+	DIR : incremental
+	Date : Saturday - August 24, 2024 - 9:43:0:731 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:437 AM
+}

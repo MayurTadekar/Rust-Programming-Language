@@ -1,0 +1,30 @@
+
+{
+	DIR : adapter
+	Date : Saturday - August 24, 2024 - 10:12:25:200 AM
+}
+
+{
+	FILE : mock.rs.html
+	Date : Saturday - August 24, 2024 - 10:12:25:202 AM
+}
+
+{
+	FILE : mod.rs.html
+	Date : Saturday - August 24, 2024 - 10:12:25:200 AM
+}
+
+{
+	FILE : std.rs.html
+	Date : Saturday - August 24, 2024 - 10:12:25:202 AM
+}
+
+{
+	FILE : thread.rs.html
+	Date : Saturday - August 24, 2024 - 10:12:25:202 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:882 AM
+}

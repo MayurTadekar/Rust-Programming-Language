@@ -1,0 +1,20 @@
+
+{
+	FILE : trait.Extend.js
+	Date : Saturday - August 24, 2024 - 10:12:20:544 AM
+}
+
+{
+	FILE : trait.FromIterator.js
+	Date : Saturday - August 24, 2024 - 10:12:20:614 AM
+}
+
+{
+	FILE : trait.IntoIterator.js
+	Date : Saturday - August 24, 2024 - 10:12:20:587 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:212 AM
+}

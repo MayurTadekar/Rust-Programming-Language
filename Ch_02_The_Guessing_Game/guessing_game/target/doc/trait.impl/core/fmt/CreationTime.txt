@@ -1,0 +1,35 @@
+
+{
+	FILE : trait.Binary.js
+	Date : Saturday - August 24, 2024 - 10:12:23:670 AM
+}
+
+{
+	FILE : trait.Debug.js
+	Date : Saturday - August 24, 2024 - 10:12:20:120 AM
+}
+
+{
+	FILE : trait.Display.js
+	Date : Saturday - August 24, 2024 - 10:12:20:425 AM
+}
+
+{
+	FILE : trait.LowerHex.js
+	Date : Saturday - August 24, 2024 - 10:12:23:692 AM
+}
+
+{
+	FILE : trait.Octal.js
+	Date : Saturday - August 24, 2024 - 10:12:23:662 AM
+}
+
+{
+	FILE : trait.UpperHex.js
+	Date : Saturday - August 24, 2024 - 10:12:23:731 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:206 AM
+}

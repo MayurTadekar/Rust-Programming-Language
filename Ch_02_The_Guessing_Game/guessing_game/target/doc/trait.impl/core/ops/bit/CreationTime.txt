@@ -1,0 +1,60 @@
+
+{
+	FILE : trait.BitAnd.js
+	Date : Saturday - August 24, 2024 - 10:12:23:641 AM
+}
+
+{
+	FILE : trait.BitAndAssign.js
+	Date : Saturday - August 24, 2024 - 10:12:23:600 AM
+}
+
+{
+	FILE : trait.BitOr.js
+	Date : Saturday - August 24, 2024 - 10:12:23:583 AM
+}
+
+{
+	FILE : trait.BitOrAssign.js
+	Date : Saturday - August 24, 2024 - 10:12:23:600 AM
+}
+
+{
+	FILE : trait.BitXor.js
+	Date : Saturday - August 24, 2024 - 10:12:23:684 AM
+}
+
+{
+	FILE : trait.BitXorAssign.js
+	Date : Saturday - August 24, 2024 - 10:12:23:600 AM
+}
+
+{
+	FILE : trait.Not.js
+	Date : Saturday - August 24, 2024 - 10:12:23:692 AM
+}
+
+{
+	FILE : trait.Shl.js
+	Date : Saturday - August 24, 2024 - 10:12:23:648 AM
+}
+
+{
+	FILE : trait.ShlAssign.js
+	Date : Saturday - August 24, 2024 - 10:12:23:601 AM
+}
+
+{
+	FILE : trait.Shr.js
+	Date : Saturday - August 24, 2024 - 10:12:23:634 AM
+}
+
+{
+	FILE : trait.ShrAssign.js
+	Date : Saturday - August 24, 2024 - 10:12:23:601 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:232 AM
+}

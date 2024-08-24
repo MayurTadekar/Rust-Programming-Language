@@ -18,3 +18,13 @@
 	FILE : CreationTime.txt
 	Date : Tuesday - August 13, 2024 - 2:45:32:874 AM
 }
+
+{
+	DIR : Ch_01_Introduction
+	Date : Monday - August 12, 2024 - 10:51:37:309 PM
+}
+
+{
+	DIR : Ch_02_The_Guessing_Game
+	Date : Saturday - August 24, 2024 - 9:41:30:984 AM
+}

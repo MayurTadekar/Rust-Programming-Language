@@ -1,0 +1,25 @@
+
+{
+	FILE : dep-lib-proc_macro2
+	Date : Saturday - August 24, 2024 - 10:0:43:573 AM
+}
+
+{
+	FILE : invoked.timestamp
+	Date : Saturday - August 24, 2024 - 10:0:43:130 AM
+}
+
+{
+	FILE : lib-proc_macro2
+	Date : Saturday - August 24, 2024 - 10:0:43:573 AM
+}
+
+{
+	FILE : lib-proc_macro2.json
+	Date : Saturday - August 24, 2024 - 10:0:43:573 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:481 AM
+}

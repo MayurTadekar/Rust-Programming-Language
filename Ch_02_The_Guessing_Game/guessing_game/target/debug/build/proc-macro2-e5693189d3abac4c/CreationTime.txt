@@ -1,0 +1,30 @@
+
+{
+	FILE : invoked.timestamp
+	Date : Saturday - August 24, 2024 - 10:0:43:40 AM
+}
+
+{
+	DIR : out
+	Date : Saturday - August 24, 2024 - 10:0:42:689 AM
+}
+
+{
+	FILE : output
+	Date : Saturday - August 24, 2024 - 10:0:43:130 AM
+}
+
+{
+	FILE : root-output
+	Date : Saturday - August 24, 2024 - 10:0:43:130 AM
+}
+
+{
+	FILE : stderr
+	Date : Saturday - August 24, 2024 - 10:0:43:130 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:555 AM
+}

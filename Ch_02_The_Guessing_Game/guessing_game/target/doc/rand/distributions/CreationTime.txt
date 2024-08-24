@@ -1,0 +1,125 @@
+
+{
+	DIR : bernoulli
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	DIR : distribution
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : enum.BernoulliError.html
+	Date : Saturday - August 24, 2024 - 10:12:25:445 AM
+}
+
+{
+	FILE : enum.WeightedError.html
+	Date : Saturday - August 24, 2024 - 10:12:25:436 AM
+}
+
+{
+	DIR : float
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : index.html
+	Date : Saturday - August 24, 2024 - 10:12:25:428 AM
+}
+
+{
+	DIR : other
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : sidebar-items.js
+	Date : Saturday - August 24, 2024 - 10:12:25:429 AM
+}
+
+{
+	DIR : slice
+	Date : Saturday - August 24, 2024 - 10:12:25:453 AM
+}
+
+{
+	FILE : struct.Alphanumeric.html
+	Date : Saturday - August 24, 2024 - 10:12:25:437 AM
+}
+
+{
+	FILE : struct.Bernoulli.html
+	Date : Saturday - August 24, 2024 - 10:12:25:445 AM
+}
+
+{
+	FILE : struct.DistIter.html
+	Date : Saturday - August 24, 2024 - 10:12:25:442 AM
+}
+
+{
+	FILE : struct.DistMap.html
+	Date : Saturday - August 24, 2024 - 10:12:25:439 AM
+}
+
+{
+	FILE : struct.Open01.html
+	Date : Saturday - August 24, 2024 - 10:12:25:439 AM
+}
+
+{
+	FILE : struct.OpenClosed01.html
+	Date : Saturday - August 24, 2024 - 10:12:25:439 AM
+}
+
+{
+	FILE : struct.Slice.html
+	Date : Saturday - August 24, 2024 - 10:12:25:437 AM
+}
+
+{
+	FILE : struct.Standard.html
+	Date : Saturday - August 24, 2024 - 10:12:25:434 AM
+}
+
+{
+	FILE : struct.Uniform.html
+	Date : Saturday - August 24, 2024 - 10:12:25:437 AM
+}
+
+{
+	FILE : struct.WeightedIndex.html
+	Date : Saturday - August 24, 2024 - 10:12:25:435 AM
+}
+
+{
+	FILE : trait.Distribution.html
+	Date : Saturday - August 24, 2024 - 10:12:25:443 AM
+}
+
+{
+	FILE : trait.DistString.html
+	Date : Saturday - August 24, 2024 - 10:12:25:439 AM
+}
+
+{
+	DIR : uniform
+	Date : Saturday - August 24, 2024 - 10:12:25:447 AM
+}
+
+{
+	DIR : weighted
+	Date : Saturday - August 24, 2024 - 10:12:25:445 AM
+}
+
+{
+	DIR : weighted_index
+	Date : Saturday - August 24, 2024 - 10:12:25:452 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:736 AM
+}

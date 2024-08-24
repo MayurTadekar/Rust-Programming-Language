@@ -1,0 +1,35 @@
+
+{
+	FILE : bin-guessing_game
+	Date : Saturday - August 24, 2024 - 9:43:1:387 AM
+}
+
+{
+	FILE : bin-guessing_game.json
+	Date : Saturday - August 24, 2024 - 9:43:1:387 AM
+}
+
+{
+	FILE : dep-bin-guessing_game
+	Date : Saturday - August 24, 2024 - 9:43:1:358 AM
+}
+
+{
+	FILE : doc-bin-guessing_game
+	Date : Saturday - August 24, 2024 - 10:12:25:780 AM
+}
+
+{
+	FILE : doc-bin-guessing_game.json
+	Date : Saturday - August 24, 2024 - 10:12:25:780 AM
+}
+
+{
+	FILE : invoked.timestamp
+	Date : Saturday - August 24, 2024 - 9:43:0:733 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:464 AM
+}

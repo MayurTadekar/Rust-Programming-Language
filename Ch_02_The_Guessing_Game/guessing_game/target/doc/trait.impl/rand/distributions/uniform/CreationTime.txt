@@ -1,0 +1,25 @@
+
+{
+	FILE : trait.SampleBorrow.js
+	Date : Saturday - August 24, 2024 - 10:12:25:295 AM
+}
+
+{
+	FILE : trait.SampleRange.js
+	Date : Saturday - August 24, 2024 - 10:12:25:244 AM
+}
+
+{
+	FILE : trait.SampleUniform.js
+	Date : Saturday - August 24, 2024 - 10:12:25:252 AM
+}
+
+{
+	FILE : trait.UniformSampler.js
+	Date : Saturday - August 24, 2024 - 10:12:25:301 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:261 AM
+}

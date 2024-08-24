@@ -1,0 +1,55 @@
+
+{
+	FILE : enum.GenericArgument.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : enum.PathArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : struct.AngleBracketedGenericArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : struct.AssocConst.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : struct.AssocType.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : struct.Constraint.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : struct.ParenthesizedGenericArguments.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : struct.Path.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : struct.PathSegment.html
+	Date : Saturday - August 24, 2024 - 10:12:22:256 AM
+}
+
+{
+	FILE : struct.QSelf.html
+	Date : Saturday - August 24, 2024 - 10:12:22:255 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:15:48 AM
+}

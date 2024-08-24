@@ -1,0 +1,30 @@
+
+{
+	FILE : enum.Fields.html
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	FILE : struct.Field.html
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	FILE : struct.FieldsNamed.html
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	FILE : struct.FieldsUnnamed.html
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	FILE : struct.Variant.html
+	Date : Saturday - August 24, 2024 - 10:12:22:267 AM
+}
+
+{
+	FILE : CreationTime.txt
+	Date : Saturday - August 24, 2024 - 10:23:14:955 AM
+}
